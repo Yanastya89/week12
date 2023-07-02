@@ -1,0 +1,10 @@
+body {
+	font-size: 18px;
+	text-align: center;
+}
+.button-container{
+	margin-top:20px;
+	} 
+#result{
+		margin: 20px 0px;
+}
